@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Laxmi Narayan (@lnwalkerr)
+# 👋 Hi, I’m Laxmi Narayan
 
 ## 👀 I’m interested in:
 - **Full-Stack Web Development (MERN & Java Full Stack)**
-- **Microsoft Technologies (.NET, C#)**
 - **Data Structures & Algorithms (DSA)**
 - **Backend Engineering & API Development**
 - **Competitive Programming**
