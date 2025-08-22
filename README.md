@@ -15,7 +15,7 @@
 - **System Design & Scalability**
 
 ## 💞️ I’m looking to collaborate on:
-- **Open-source Java Full Stack & .NET projects**
+- **Open-source Java Full Stack & MERN Stack projects**
 - **Scalable backend systems & APIs**
 - **AI-integrated web applications**
 - **Competitive programming & problem-solving**
