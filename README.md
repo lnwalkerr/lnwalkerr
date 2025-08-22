@@ -37,4 +37,3 @@
 - **Ranked in the Top 1% on CodeChef** (1800+ rating).  
 - **Built a Chrome extension for automated job applications.**  
 - **Won 2nd place in a College Hackathon** (AI-powered chatbot).  
-- **Two-time district-level running champion** 🏃‍♂️.  
